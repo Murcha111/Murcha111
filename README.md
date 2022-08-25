@@ -1,6 +1,6 @@
 
 <h1 align="center">Привет 👋, я Елена</h1>
-<h3 align="center">frontend разработчик из России</h3>
+<h3 align="center">fullstack разработчик из России</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murcha111&label=Profile%20views&color=0e75b6&style=flat" alt="murcha111" /> </p>
 
