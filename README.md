@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murcha111&label=Profile%20views&color=0e75b6&style=flat" alt="murcha111" /> </p>
 
-- ⚡ Fun fact: **люблю кодить, котиков, тренажерный зал, пилон и море)**
+- ⚡ Fun fact: **Вижу цель! Не вижу препятствий!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
