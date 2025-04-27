@@ -18,7 +18,7 @@
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://www.freedownloadlogo.com/logos/t/tailwindcss.svg" alt="tailwind" width="40" height="40"/> </a></p>
 <br/>
 
-- **Фронтенд**: JS, React, Redux, HTML5, CSS3, Bootstrap, Tailwind, SCSS, Axios, Fetch
+- **Фронтенд**: JS, React, Redux, Mobx, Eslint, Prettier, SCSS, Axios,TS
 - **Бэкенд**: Node.js, Express, CORS, hbs
 - **Базы данных**: PostgreSQL, Sequelize 
 - **Прочее**: Jest, REST, CRUD, Postman
